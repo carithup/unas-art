@@ -1,0 +1,41 @@
+header, section {
+    background-color: #92b8b8; /* Color de secciones verde un poco más oscuro agua */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #2c3e50; /* Texto gris oscuro */
+}
+
+h1 {
+    font-size: 26px;
+    color: #000000; /* Título negro */
+}
+
+h2 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #2980b9; /* Color de enlaces */
+    text-decoration: none;
+}
+
+.promocion {
+    color: #e74c3c; /* Color de promoción */
+    font-weight: bold;
+}
+
+.imagen {
+    display: inline-block;
+    margin: 10px;
+}
+.imagen img {
+    max-width: 100px;
+    height: auto;
+}
+
